@@ -1,0 +1,15 @@
+automacao\industrial\factory\AlimenticioFactory.class
+automacao\industrial\model\Sensores.class
+automacao\industrial\model\Textil.class
+automacao\industrial\app\TipoDispositivo.class
+automacao\industrial\factory\MetalurgiaFactory.class
+automacao\industrial\model\Maquinas.class
+automacao\industrial\model\Setor.class
+automacao\industrial\app\Main$1.class
+automacao\industrial\factory\SetorFactory.class
+automacao\industrial\app\Main.class
+module-info.class
+automacao\industrial\model\Alimenticio.class
+automacao\industrial\factory\TextilFactory.class
+automacao\industrial\model\Metalurgia.class
+automacao\industrial\model\Dispositivo.class
